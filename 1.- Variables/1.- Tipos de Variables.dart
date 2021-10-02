@@ -1,4 +1,7 @@
 main() {
-  var a = 10;
+  String hola_Mundo = "Hola Mundo";
+
+  print(hola_Mundo);
+
 
 }
